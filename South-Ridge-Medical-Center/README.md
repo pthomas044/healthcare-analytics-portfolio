@@ -55,14 +55,12 @@ The objective was to investigate operational metrics and identify potential cont
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/Operations Dashboard.png)
-
+![Executive Dashboard](./images/Operations%20Dashboard.png)
 ---
 
 ## Operational Investigation
 
-![Operational Investigation](images/ER Dashboard.png)
----
+![Operational Investigation](./images/ER%20Dashboard.png)
 
 ## Dashboard Preview
 
