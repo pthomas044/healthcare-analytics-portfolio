@@ -24,7 +24,7 @@ My goal is to combine data analysis, business intelligence, and healthcare opera
 | Project | Focus | Status |
 |---------|-------|--------|
 | 🏥 South Ridge Medical Center | Hospital Operations Dashboard | ✅ Complete |
-| 🏥 Harmony Health Network | Readmission Analytics | 🚧 Coming Soon |
+| 🏥 South Ridge Medical Center | Readmission Analytics | 🚧 Coming Soon |
 | 🏥 Summit Regional Hospital | Financial Analytics | 📅 Planned |
 | 🏥 Community Health Population Analytics | Population Health | 📅 Planned |
 
